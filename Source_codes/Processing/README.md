@@ -15,7 +15,8 @@ The pipeline processes each 30/10s-second segment of physiological signals, vali
 
 | Module | Purpose |
 |--------|---------|
-| `main.py` | Entry point for batch processing 30-second signal segments. Handles data loading, segmentation, validation, SQI computation, and feature extraction. |
+| `run_features_task.py` | Entry point for batch processing 30-second signal segments.|
+| `main.py` |  Handles data loading, segmentation, validation, SQI computation, and feature extraction. |
 | `utils.py` | General-purpose utilities for NaN handling, signal validation, clipping, padding, and WFDB signal loading. |
 | `abp_utils.py` | ABP-specific utilities for beat detection, SBP/DBP identification, physiological plausibility filtering, and SQI evaluation. |
 | `resp_utils.py` | RESP signal preprocessing and SQI based on template similarity and breathing cycle consistency. |
