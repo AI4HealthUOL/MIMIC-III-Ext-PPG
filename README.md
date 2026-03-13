@@ -101,6 +101,10 @@ Source code and pipelines are available in the **`Source_codes`** directory:
 
 If you use this dataset, please cite:
 
+Moulaeifard M, Charlton P H, Strodthoff N. MIMIC-III-Ext-PPG: A PPG Benchmark Dataset for Cardiorespiratory Analysis (version 1.0.0). PhysioNet. 2026. RRID:SCR_007345. Available from: https://doi.org/10.13026/nmwb-6h34
+
+or BibTeX:
+
 @article{PhysioNet-mimic-iii-ext-ppg-1.0.0,
   author = {Moulaeifard, Mohammad and Charlton, Peter H and Strodthoff, Nils},
   title = {{MIMIC-III-Ext-PPG: A  PPG Benchmark Dataset for Cardiorespiratory Analysis}},
