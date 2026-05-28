@@ -100,7 +100,7 @@ Moulaeifard, M., Charlton, P. H., & Strodthoff, N. (2026). MIMIC-III-Ext-PPG: A 
 
 and
 
-Moulaeifard, M., Kutscher, M., Aston, P. J., Charlton, P. H., & Strodthoff, N. (2026). MIMIC-III-Ext-PPG, a PPG-based Benchmark Dataset for Cardiovascular and Respiratory Signal Analysis. Scientific Data, 13(1), 668.
+Moulaeifard, M., Kutscher, M., Aston, P. J., Charlton, P. H., & Strodthoff, N. (2026). MIMIC-III-Ext-PPG, a PPG-based Benchmark Dataset for Cardiovascular and Respiratory Signal Analysis. Scientific Data, 13(1), 668. https://www.nature.com/articles/s41597-026-07335-8
 
 ---
 
