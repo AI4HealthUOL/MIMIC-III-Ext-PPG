@@ -98,18 +98,9 @@ If you use this dataset, please cite:
 
 Moulaeifard, M., Charlton, P. H., & Strodthoff, N. (2026). MIMIC-III-Ext-PPG: A PPG Benchmark Dataset for Cardiorespiratory Analysis (version 1.1.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/r6k1-xt76
 
-or BibTeX:
+and
 
-@article{PhysioNet-mimic-iii-ext-ppg-1.1.0,
-  author = {Moulaeifard, Mohammad and Charlton, Peter H and Strodthoff, Nils},
-  title = {{MIMIC-III-Ext-PPG: A  PPG Benchmark Dataset for Cardiorespiratory Analysis}},
-  journal = {{PhysioNet}},
-  year = {2026},
-  month = mar,
-  note = {Version 1.1.0},
-  doi = {10.13026/r6k1-xt76},
-  url = {https://doi.org/10.13026/r6k1-xt76}
-}
+Moulaeifard, M., Kutscher, M., Aston, P. J., Charlton, P. H., & Strodthoff, N. (2026). MIMIC-III-Ext-PPG, a PPG-based Benchmark Dataset for Cardiovascular and Respiratory Signal Analysis. Scientific Data, 13(1), 668.
 
 ---
 
